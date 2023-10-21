@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuj22045
+- 👋 Hi, I’m Anuj Kumar
 - My Gmail- anuj9t9@gmail.com
 - 🌱 I’m currently learning Python language
 - 📫 Connect with me-
