@@ -98,3 +98,9 @@ Languages and Tools:
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=react&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourgithubusername&theme=react&hide_border=false)](https://git.io/streak-stats)
+
+
+
