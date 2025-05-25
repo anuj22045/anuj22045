@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Anuj Kumar
-  Aspiring Software Developer
+<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
+<p align="center">Aspiring Software Developer</p>
 - My Gmail- anuj9t9@gmail.com
 - 🌱 I’m currently learning MERN stack and DSA
 - 📫Connect with me:
