@@ -1,4 +1,5 @@
-- 👋 Hi, This side Anuj Kumar
+- 👋 Hi, I'm Anuj Kumar
+  Aspiring Software Developer
 - My Gmail- anuj9t9@gmail.com
 - 🌱 I’m currently learning MERN stack and DSA
 - 📫Connect with me:
@@ -14,7 +15,6 @@
 
 
 Languages and Tools:
-
 <p align="left">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -98,7 +98,10 @@ Languages and Tools:
 </p>
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj22045&layout=compact&hide_progress=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anuj22045&theme=react&hide_border=false)](https://git.io/streak-stats)
