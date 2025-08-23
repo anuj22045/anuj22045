@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <p align="center">Aspiring Software Developer</p>
-<h3>Study by passion, learn by profession❤️</h3>
+<h3>Perspective - Study by passion, learn by profession❤️</h3>
 
 - <h5>My Gmail- anuj9t9@gmail.com</h5>
 - <h5> 🌱I’m currently learning MERN stack and DSA</h5>
