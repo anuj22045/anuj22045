@@ -33,7 +33,7 @@
 
 #### 📊 Data Science & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask" />
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
 <img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
@@ -74,6 +74,8 @@
 
 ---
 
-### 💡 Quote
+### 📬 Let's Connect
 
-> "Turning data into decisions, and ideas into intelligent systems."
+> "Always open to collaboration, learning, and building impactful AI solutions."
+
+📧 **Email:** anuj9t9@gmail.com
