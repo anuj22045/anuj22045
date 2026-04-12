@@ -1,98 +1,79 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<p align="center">Aspiring Software Developer</p>
-<h3>Perspective - Study by passion, learn by profession❤️</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems 🚀</h3>
 
-- <h5>My Gmail- anuj9t9@gmail.com</h5>
-- <h5> 🌱I’m currently learning MERN stack and DSA</h5>
-- <h5>📫Connect with me:</h5>
-<a href="https://linkedin.com/in/anuj-kumar-299781290/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
-<a href="https://facebook.com/anujkumar" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" />
-</a>
-<a href="https://instagram.com/anujkumar_620" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
-</a>
-<br>
-<br>
+---
 
-<h5>Languages and Tools:</h5>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  </a>
+### 🧠 About Me
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  </a>
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 📊 Working on **real-world datasets and predictive models**
+- 💻 Strong foundation in **Python, Data Structures & Problem Solving**
+- 🔍 Interested in solving practical problems using data-driven approaches
+- 🚀 Goal: To build scalable and impactful AI solutions
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  </a>
+---
 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  </a>
+### ⚡ What I'm Currently Doing
 
-  <a href="https://ejs.co" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="EJS" />
-  </a>
+- 📈 Learning and implementing **Machine Learning algorithms**
+- 🧪 Building models using **Scikit-Learn & XGBoost**
+- 📊 Performing **Data Analysis & Visualization**
+- 🧠 Exploring **Deep Learning (next step)**
 
+---
 
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  </a>
+### 🛠️ Tech Stack
 
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  </a>
-
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  </a>
-
-  <a href="https://angular.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  </a>
-
-  <a href="https://ionicframework.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40" />
-  </a>
-
-  <a href="https://www.raspberrypi.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" />
-  </a>
-
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  </a>
-
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  </a>
-
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  </a>
+#### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
+---
 
+#### 📊 Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj22045&layout=compact&hide_progress=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+#### 🌐 Additional Skills
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
+---
 
+### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anuj22045&theme=react&hide_border=false)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj22045&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj22045&theme=radical" />
+</p>
 
+---
 
+### 🌐 Connect With Me
 
+<p>
+<a href="https://www.linkedin.com/in/anuj-kumar-299781290">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/anujkumar_620">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+### 💡 Quote
+
+> "Turning data into decisions, and ideas into intelligent systems."
