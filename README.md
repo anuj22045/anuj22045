@@ -50,16 +50,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj22045&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj22045&theme=radical" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p>
