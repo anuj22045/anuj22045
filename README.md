@@ -20,7 +20,7 @@
 - 💡 Strengthening problem-solving with Data Structures & Algorithms (DSA)
 - 🧠 Diving into Generative AI and its real-world applications
 
-⚡ Fun fact: From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
+> ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
 
 
