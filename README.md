@@ -15,10 +15,14 @@
 
 ### ⚡ What I'm Currently Doing
 
-- 📈 Learning and implementing **Machine Learning algorithms**
-- 🧪 Building models using **Scikit-Learn & XGBoost**
-- 📊 Performing **Data Analysis & Visualization**
-- 🧠 Exploring **Deep Learning (next step)**
+- 📊 Exploring the core concepts of Data Science
+- 🤖 Learning and implementing Machine Learning algorithms
+- 💡 Strengthening problem-solving with Data Structures & Algorithms (DSA)
+- 🧠 Diving into Generative AI and its real-world applications
+
+⚡ Fun fact: From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
+
+
 
 ---
 
