@@ -43,6 +43,8 @@
 <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
 <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
 <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
+
 </p>
 
 ---
