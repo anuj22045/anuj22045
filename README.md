@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems 🚀</h3>
+<h3 align="center">Aspiring AI Engineer | Machine Learning • Deep Learning • Generative AI🚀</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Working on **real-world datasets and predictive models**
-- 💻 Strong foundation in **Python, Data Structures & Problem Solving**
-- 🔍 Interested in solving practical problems using data-driven approaches
-- 🚀 Goal: To build scalable and impactful AI solutions
+- 🤖 Aspiring **AI Engineer** passionate about Machine Learning & Deep Learning
+- 📚 Currently learning **Deep Learning, TensorFlow & PyTorch**
+- 💻 Building practical AI applications using **Python**
+- 🧠 Exploring **Computer Vision, NLP & Generative AI**
+- 📈 Strengthening problem-solving through **DSA & Competitive Programming**
+- 🚀 Goal: Develop scalable AI solutions with real-world impact
 
 ---
 
-### ⚡ What I'm Currently Doing
+### 📚 What I'm Currently Working On
 
-- 📊 Exploring the core concepts of Data Science
-- 🤖 Learning and implementing Machine Learning algorithms
-- 💡 Strengthening problem-solving with Data Structures & Algorithms (DSA)
-- 🧠 Diving into Generative AI and its real-world applications
+- 🤖 Exploring Machine Learning algorithms and predictive models
+- 🧠 Learning Deep Learning concepts and neural network architectures
+- 📝 Building a strong foundation in Natural Language Processing (NLP)
+- 💻 Developing AI projects using Python
+- 🚀 Continuously improving problem-solving through DSA
 
 > ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
@@ -30,28 +32,28 @@
 
 #### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
 </p>
 
 ---
 
 #### 📊 Data Science & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask" />
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
 </p>
 
 ---
 
-#### 🌐 Additional Skills
+#### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
