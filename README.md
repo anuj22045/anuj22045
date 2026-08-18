@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-negi07&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj22045&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
