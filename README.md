@@ -16,8 +16,8 @@
 
 ### 📚 What I'm Currently Working On
 
-- 🤖 Exploring Machine Learning algorithms and predictive models
-- 🧠 Learning Deep Learning concepts and neural network architectures
+- 🤖 Exploring Machine Learning and Deep Learning algorithms and predictive models
+- 🧠 Learning Generative AI, its architecture and workflow
 - 📝 Building a strong foundation in Natural Language Processing (NLP)
 - 💻 Developing AI projects using Python
 - 🚀 Continuously improving problem-solving through DSA
