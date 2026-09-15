@@ -6,9 +6,9 @@
 ### 🧠 About Me
 
 - 🤖 Aspiring **AI Engineer** passionate about Machine Learning & Deep Learning
-- 📚 Currently learning **Deep Learning, TensorFlow & PyTorch**
+- 📚 Currently learning **Generative AI and RAG Pipelines**
 - 💻 Building practical AI applications using **Python**
-- 🧠 Exploring **Computer Vision, NLP & Generative AI**
+- 🧠 Exploring **Transformer architecture and Deep Learning**
 - 📈 Strengthening problem-solving through **DSA & Competitive Programming**
 - 🚀 Goal: Develop scalable AI solutions with real-world impact
 
