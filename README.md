@@ -24,7 +24,12 @@
 
 > ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj22845&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj22845&layout=compact&theme=dark" />
+</p>
 
 ---
 
