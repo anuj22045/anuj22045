@@ -5,22 +5,26 @@
 
 ### 🧠 About Me
 
-- 🤖 Aspiring **AI Engineer** passionate about Machine Learning & Deep Learning
-- 📚 Currently learning **Generative AI and RAG Pipelines**
-- 💻 Building practical AI applications using **Python**
-- 🧠 Exploring **Transformer architecture and Deep Learning**
-- 📈 Strengthening problem-solving through **DSA & Competitive Programming**
-- 🚀 Goal: Develop scalable AI solutions with real-world impact
+- 🤖 Aspiring **AI Engineer & Generative AI Developer** focused on building practical, intelligent AI applications
+- 🧠 Building a strong foundation in **Machine Learning, Deep Learning, NLP, and Transformer architectures**
+- 🚀 Exploring **Large Language Models (LLMs), Generative AI, RAG, Embeddings, and Vector Databases**
+- 💻 Developing AI-powered applications using **Python, FastAPI, React, and modern AI/ML frameworks**
+- 🔍 Interested in **AI Engineering, LLM applications, model evaluation, and intelligent automation**
+- 📈 Strengthening problem-solving and algorithmic thinking through **DSA, SQL, and competitive programming**
+- 🎯 Career goal: Build **scalable, production-ready AI systems** that solve meaningful real-world problems
 
----
 
-### 📚 What I'm Currently Working On
+### 🚀 What I'm Currently Working On
 
-- 🤖 Exploring Machine Learning and Deep Learning algorithms and predictive models
-- 🧠 Learning Generative AI, its architecture and workflow
-- 📝 Building a strong foundation in Natural Language Processing (NLP)
-- 💻 Developing AI projects using Python
-- 🚀 Continuously improving problem-solving through DSA
+- 🤖 Building and experimenting with **Machine Learning & Deep Learning models**
+- 🧠 Learning how **LLMs and Transformer-based models** work internally
+- 🔎 Building **RAG pipelines** with document ingestion, chunking, embeddings, retrieval, and context-aware generation
+- 🗃️ Exploring **Vector Databases and Semantic Search** for AI-powered applications
+- 🔗 Working with **LLM APIs, Hugging Face, LangChain, and LangGraph**
+- 📝 Strengthening my knowledge of **NLP, Information Retrieval, and LLM evaluation**
+- ⚙️ Exploring **AI Engineering practices, model deployment, MLOps, and LLMOps**
+- 💻 Building end-to-end AI projects using **Python, FastAPI, React, PostgreSQL, and modern AI tooling**
+- 🧩 Continuously improving **DSA, SQL, problem-solving, and software engineering fundamentals**
 
 > ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
