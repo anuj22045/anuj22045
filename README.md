@@ -35,11 +35,14 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
+
+<!-- ===================== ABOUT ME ===================== -->
+
 <h2 align="center">⚡ About Me</h2>
 
-<table>
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
 <tr>
-<td width="60%">
+<td width="58%" valign="middle">
 
 ```yaml
 name: Anuj Kumar
@@ -66,13 +69,35 @@ interests:
 ```
 
 </td>
-<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     width="100%"
+     alt="Developer working on computer"/>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+<table width="100%" border="0" cellpadding="12">
+<tr>
+<td align="center">
+
+⚡ <b>Fun fact:</b> From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 
 ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
