@@ -133,13 +133,13 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=F4C542&icon_color=F4C542&text_color=FFFFFF&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuj22045&show_icons=true&theme=dark&bg_color=0D1117&title_color=F4C542&icon_color=F4C542&text_color=FFFFFF&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=F4C542&text_color=FFFFFF&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj22045&layout=compact&theme=dark&bg_color=0D1117&title_color=F4C542&text_color=FFFFFF&hide_border=true"/>
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&ring=F4C542&fire=F4C542&currStreakLabel=F4C542&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=anuj22045&theme=dark&background=0D1117&ring=F4C542&fire=F4C542&currStreakLabel=F4C542&hide_border=true"/>
 
 </div>
 
@@ -151,7 +151,7 @@ interests:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/anuj22045/anuj22045/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -163,15 +163,15 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anuj22045">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4C542"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/anuj-kumar-299781290">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F4C542"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anuj9t9@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F4C542"/>
 </a>
 
