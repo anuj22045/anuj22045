@@ -1,81 +1,189 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">Aspiring AI Engineer | Machine Learning • Deep Learning • Generative AI🚀</h3>
+```markdown
+<!-- ===================== HEADER ===================== -->
 
----
+<div align="center">
 
-### 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F4C542&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B+I'm+Anuj+Kumar;GenAI+Engineer;Software+Engineer;Open+Source+Contributor" />
 
-- 🤖 Aspiring **AI Engineer & Generative AI Developer** focused on building practical, intelligent AI applications
-- 🧠 Building a strong foundation in **Machine Learning, Deep Learning, NLP, and Transformer architectures**
-- 🚀 Exploring **Large Language Models (LLMs), Generative AI, RAG, Embeddings, and Vector Databases**
-- 💻 Developing AI-powered applications using **Python, FastAPI, React, and modern AI/ML frameworks**
-- 🔍 Interested in **AI Engineering, LLM applications, model evaluation, and intelligent automation**
-- 📈 Strengthening problem-solving and algorithmic thinking through **DSA, SQL, and competitive programming**
-- 🎯 Career goal: Build **scalable, production-ready AI systems** that solve meaningful real-world problems
+<h3>Gen AI Engineer | Software Engineer | Open Source Contributor</h3>
 
-
-### 🚀 What I'm Currently Working On
-
-- 🤖 Building and experimenting with **Machine Learning & Deep Learning models**
-- 🧠 Learning how **LLMs and Transformer-based models** work internally
-- 🔎 Building **RAG pipelines** with document ingestion, chunking, embeddings, retrieval, and context-aware generation
-- 🗃️ Exploring **Vector Databases and Semantic Search** for AI-powered applications
-- 🔗 Working with **LLM APIs, Hugging Face, LangChain, and LangGraph**
-- 📝 Strengthening my knowledge of **NLP, Information Retrieval, and LLM evaluation**
-- ⚙️ Exploring **AI Engineering practices, model deployment, MLOps, and LLMOps**
-- 💻 Building end-to-end AI projects using **Python, FastAPI, React, PostgreSQL, and modern AI tooling**
-- 🧩 Continuously improving **DSA, SQL, problem-solving, and software engineering fundamentals**
-
-> ⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
+Building intelligent applications and solving real-world problems
+through Software Engineering and Generative AI.
 </p>
 
----
-
-#### 📊 Data Science & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-#### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+name: Anuj Kumar
+education: MCA
+role: Gen AI Engineer | Software Engineer
+
+focus:
+  - Generative AI & LLMs
+  - Retrieval Augmented Generation (RAG)
+  - AI Agents & LLM Evaluation
+  - Backend Development
+  - Problem Solving
+
+currently_learning:
+  - Advanced RAG
+  - LangChain
+  - LLM Evaluation
+  - AI Agent Development
+
+interests:
+  - Building Real-World AI Applications
+  - Open Source Contribution
+  - Exploring New Technologies
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
 ---
 
-### 🌐 Connect With Me
+<!-- ===================== TECH STACK ===================== -->
 
-<p>
-<a href="https://www.linkedin.com/in/anuj-kumar-299781290">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+</td>
+<td align="center">
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
+
+</td>
+<td align="center">
+
+### AI & Machine Learning
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/RAG-F4C542?style=for-the-badge&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-222222?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=F4C542&icon_color=F4C542&text_color=FFFFFF&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=F4C542&text_color=FFFFFF&hide_border=true"/>
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&ring=F4C542&fire=F4C542&currStreakLabel=F4C542&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4C542"/>
 </a>
 
-<a href="https://instagram.com/anujkumar_620">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F4C542"/>
 </a>
-</p>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F4C542"/>
+</a>
+
+</div>
 
 ---
 
-### 📬 Let's Connect
+<div align="center">
 
-> "Always open to collaboration, learning, and building impactful AI solutions."
+<h3>💛 Building Today, Innovating Tomorrow.</h3>
 
-📧 **Email:** anuj9t9@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F4C542,100:0D1117&height=120&section=footer"/>
+
+</div>
+```
