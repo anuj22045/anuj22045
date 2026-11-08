@@ -35,9 +35,6 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-
-<!-- ===================== ABOUT ME ===================== -->
-
 <h2 align="center">⚡ About Me</h2>
 
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
@@ -97,9 +94,6 @@ interests:
 </div>
 
 <br/>
-
-
-⚡ **Fun fact:** From balance sheets to exploring the tech world—my journey started in commerce, but I switched paths after discovering where my real interest lies.
 
 ---
 
@@ -166,36 +160,6 @@ interests:
 </td>
 </tr>
 </table>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuj22045&show_icons=true&theme=dark&bg_color=0D1117&title_color=F4C542&icon_color=F4C542&text_color=FFFFFF&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj22045&layout=compact&theme=dark&bg_color=0D1117&title_color=F4C542&text_color=FFFFFF&hide_border=true"/>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=anuj22045&theme=dark&background=0D1117&ring=F4C542&fire=F4C542&currStreakLabel=F4C542&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anuj22045/anuj22045/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
