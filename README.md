@@ -1,8 +1,6 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<!-- ==================== ANIMATED HEADER ==================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:8C6745,75:D6A86C,100:E8D5B7&text=Hi%20%F0%9F%91%8B%20I'm%20Anuj%20Kumar&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Gen%20AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=17&descAlignY=60&descColor=FFFFFF&animation=fadeIn"/>
@@ -163,6 +161,26 @@ interests:
 
 ---
 
+
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+<h2 align="center">📊 GitHub Contribution Dashboard</h2>
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-customize.svg"
+  width="100%"
+  alt="Anuj Kumar GitHub 3D Contribution Dashboard"
+/>
+
+</div>
+
+<br/>
+
+<!-- ===================== END CONTRIBUTIONS ===================== -->
+
+---
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🤝 Connect With Me</h2>
