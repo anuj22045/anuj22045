@@ -1,16 +1,33 @@
 
 <!-- ===================== HEADER ===================== -->
 
+<!-- ==================== ANIMATED HEADER ==================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F4C542&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B+I'm+Anuj+Kumar;GenAI+Engineer;Software+Engineer;Open+Source+Contributor" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:8C6745,75:D6A86C,100:E8D5B7&text=Hi%20%F0%9F%91%8B%20I'm%20Anuj%20Kumar&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Gen%20AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=17&descAlignY=60&descColor=FFFFFF&animation=fadeIn"/>
 
-<h3>Gen AI Engineer | Software Engineer | Open Source Contributor</h3>
+<br/>
 
-<p>
-Building intelligent applications and solving real-world problems
-through Software Engineering and Generative AI.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D6A86C&center=true&vCenter=true&width=800&lines=Gen+AI+Engineer;Building+Real+World+AI+Applications;Exploring+LLMs+%26+RAG;Software+Engineer+%7C+Problem+Solver" />
+
+<br/><br/>
+
+<a href="https://github.com/anuj22045">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=D6A86C"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anuj-kumar-299781290">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=D6A86C"/>
+</a>
+&nbsp;
+<a href="mailto:anuj9t9@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=D6A86C"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8C6745,50:D6A86C,100:E8D5B7"/>
 
 </div>
 
